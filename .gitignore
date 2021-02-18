@@ -1,0 +1,13 @@
+.idea/*
+.vscode/*
+node_modules/*
+/Code/Frontend/dist/
+/Code/Frontend/node_modules/
+/Code/Frontend/package-lock.json
+/Code/Frontend/yarn.lock
+
+/Code/Middleend/node_modules/
+/Code/Middleend/util/logs/
+/Code/Middleend/dist/
+/Code/Middleend/yarn.lock
+/Code/Middleend/package-lock.json
